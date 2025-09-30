@@ -95,6 +95,3 @@ Works with any **main Champions League stats page** on FBref.
 * Outputs CSVs + win-rate analysis for multiple stats.
 * Reusable across seasons.
 
----
-
-👉 Do you want me to also add a **“Sample Output CSV” snippet** so readers can see the structure of the scraped data before running the analysis?

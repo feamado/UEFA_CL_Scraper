@@ -1,6 +1,3 @@
-Perfect 👍 — here’s your **full README** with a new **Requirements & Setup** section added so someone can run everything from scratch.
-
----
 
 # Champions League Win Rate Analysis
 
